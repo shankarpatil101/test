@@ -59,12 +59,12 @@
     "selectn": "^1.1.2",
     "underscore": "^1.9.1",
     "url": "^0.11.0",
-    "webpack": "^3.11.0",
+    "webpack": "^5.81.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
     "@angular-builders/custom-webpack": "^7.2.0",
-    "@angular-devkit/build-angular": "^0.12.3",
+    "@angular-devkit/build-angular": "^15.2.7",
     "@angular-devkit/build-optimizer": "^0.6.8",
     "@angular/cli": "^7.2.2",
     "@angular/compiler-cli": "7.0.4",
